@@ -11,5 +11,6 @@
 7. [Streets of Velvet and Shadows](Texts/en/07%20Streets%20of%20Velvet%20and%20Shadows.md) | [Переулки Бархатных теней](Texts/ru/07%20Переулки%20Бархатных%20теней.md)
 8. [Urban Warriors](Texts/en/08%20Urban%20Warriors.md) | [Охотники каменного леса](Texts/ru/08%20Охотники%20каменного%20леса.md)
 9. [Battle Hymn of the Immortals](Texts/en/09%20Battle%20Hymn%20of%20the%20Immortals.md) | [Марш бессмертных](Texts/ru/09%20Марш%20бессмертных.md)
+10. [Осень Императора](Texts/ru/10%20Осень%20Императора.md)
 
 Vladislav Shevchenko (c) 2024
